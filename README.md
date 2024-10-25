@@ -8,4 +8,4 @@
 ### for step by step mode:
 gcc pong.c -o pong
 ### for interactive:
-gcc pong.c -lncurses -o pong
+gcc pong_interactive.c -lncurses -o pong
